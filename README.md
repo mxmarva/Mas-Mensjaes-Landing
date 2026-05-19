@@ -13,12 +13,6 @@ Sitio estático para [Mas Mensajes](https://www.mas-mensajes.com), optimizado pa
 └── assets/images/
 ```
 
-## Despliegue en GitHub Pages
-
-1. Sube el repositorio a GitHub.
-2. Ve a **Settings → Pages**.
-3. En **Source**, selecciona la rama `main` (o `master`) y la carpeta **/ (root)**.
-4. Guarda. El sitio quedará disponible en `https://<usuario>.github.io/<repositorio>/`.
 
 ## Enlaces de la aplicación
 
